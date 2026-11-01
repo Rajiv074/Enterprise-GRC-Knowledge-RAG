@@ -229,3 +229,8 @@ __marimo__/
 *.binary
 *.DS_Store
 *.bin
+*.pickle
+*.jsonl
+*.md
+*.json
+
